@@ -2,6 +2,8 @@
 
 ![Portada](./Imagenes/portada.jpg)
 
+**Autor:** Sergio Guerrero Merlo
+
 ## Índice
 
 1. [Adquisición](#introducción)

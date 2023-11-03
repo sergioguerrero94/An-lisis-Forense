@@ -2,14 +2,9 @@
 
 ## Índice
 
-[Adquisición forense con FTK Imager](#adquisición-forense-con-FTK-Imager)
-
-
-
-
-
-
-
+1. [Adquisición forense con FTK Imager](#adquisición-forense-con-FTK-Imager)
+2. [Adquisición forense con Guymager](#adquisición-forense-con-Guymager)
+3. [Adquisición forense con dd](#adquisición-forense-con-dd)
 
 ## Adquisición forense con FTK Imager
 

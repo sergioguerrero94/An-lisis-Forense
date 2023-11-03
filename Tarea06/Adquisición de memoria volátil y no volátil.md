@@ -34,7 +34,7 @@ Para hacer triaje voy a utilizar la herramienta IR Triage para sacar informació
 
 Lo primero que he hecho es rellenar el log del caso.
 
-![[Pasted image 20231103190619.png]]
+![1](./Imagenes/20231103190619.png)
 
 Dejo marcado todo en cada categoría para hacer la recopilación tanto de los registros del sistema como información de la red. 
 

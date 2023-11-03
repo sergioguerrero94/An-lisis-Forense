@@ -25,6 +25,15 @@ He usado el formato AFF creado para la adquisición y análisis forense. Despué
 La siguiente adquisición se hace a través de Kali Linux y Guymager. En este caso he tenido problemas con los permisos de escritura en el disco duro externo que no he conseguido solucionar pese a que tenía bien los permisos. Por lo tanto, la imagen la guardaremos en la misma máquina en una carpeta que he creado en el escritorio. /n
 He tenido que extender el tamaño del disco duro de la máquina virtual de Kali Linux.
 
-Una vez preparado los dispositivos para la adquisición, decidí que se dividiera en partes de 4GB y no he usado el formato dd raw image de linux. 
+Una vez preparado los dispositivos para la adquisición, decidí que se dividiera en partes de 4GB y no he usado el formato dd raw image de linux, sino el formato por defecto. 
 
 ![Guymager](./Imagenes/Guymager.png)
+
+## Adquisición forense con dd
+
+
+En esta adquisición he seguido la guía que se encuentra en las referencias del tema y he investigado un poco cada opción que tiene el comando para poder ejecutarlo. La imagen adquirida del dispositivo USB la he guardado en la máquina en una carpeta.
+
+He ejecutado el comando al igual que se encuentra en la guía y he esperado a que termine de adquirirse.
+
+![dd](./Imagenes/dd.png)

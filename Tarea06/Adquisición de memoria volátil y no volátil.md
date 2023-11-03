@@ -6,7 +6,7 @@
 ## Índice
 
 1. [Introducción](#introducción)
-2. [Adquisición de evidencias](#adquisicion-de-evidencias)
+2. [Adquisición de evidencias](#adquisición-de-evidencias)
 3. [Triage](#triage)
 4. [Adquisición de memoria RAM](#adquisición-de-memoria-RAM)
 5. [Adquisición de una imagen del disco duro](#adquisición-de-una-imagen-del-disco-duro)

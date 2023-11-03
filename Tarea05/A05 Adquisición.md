@@ -2,7 +2,7 @@
 
 ## Índice
 
-
+1. [Adquisición forense con FTK Imager](## Adquisición forense con FTK Imager)
 
 
 
@@ -34,6 +34,6 @@ Una vez preparado los dispositivos para la adquisición, decidí que se dividier
 
 En esta adquisición he seguido la guía que se encuentra en las referencias del tema y he investigado un poco cada opción que tiene el comando para poder ejecutarlo. La imagen adquirida del dispositivo USB la he guardado en la máquina en una carpeta.
 
-He ejecutado el comando al igual que se encuentra en la guía y he esperado a que termine de adquirirse.
+He ejecutado el comando al igual que se encuentra en la guía después de montar el dispositivo USB y he esperado a que termine de adquirirse. El nombre que he escogido es el mismo que se encontraba en la guía con la extensión .dd.
 
 ![dd](./Imagenes/dd.png)

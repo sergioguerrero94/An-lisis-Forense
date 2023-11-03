@@ -18,4 +18,4 @@ Usaré FTK Imager en una máquina virtual Windows 10 para adquirir una imagen de
 
 He usado el formato AFF creado para la adquisición y análisis forense. Después de seleccionar el formato he rellenado la información del caso con mi nombre puesto en el apartado examinador y una descripción y he decidido que se creen fragmentos de 4500MB./n
 
-![FTK Imager](Tarea05/Imagenes/FTKimager.png)
+![FTKImager](Tarea05/Imagenes/FTKimager.png)

@@ -2,7 +2,7 @@
 
 ## Índice
 
-1. [Adquisición forense con FTK Imager](#Adquisición forense con FTK Imager)
+[g](#Adquisición forense con FTK Imager)
 
 
 

@@ -19,3 +19,11 @@ Usaré FTK Imager en una máquina virtual Windows 10 para adquirir una imagen de
 He usado el formato AFF creado para la adquisición y análisis forense. Después de seleccionar el formato he rellenado la información del caso con mi nombre puesto en el apartado examinador y una descripción y he decidido que se creen fragmentos de 4500MB./n
 
 ![FTKImager](./Imagenes/FTKimager.png)
+
+## Adquisición forense con Guymager
+
+La siguiente adquisición se hace a través de Kali Linux y Guymager. En este caso he tenido problemas con los permisos de escritura en el disco duro externo que no he conseguido solucionar pese a que tenía bien los permisos. Por lo tanto, la imagen la guardaremos en la misma máquina en una carpeta que he creado en el escritorio. /n
+He tenido que extender el tamaño del disco duro de la máquina virtual de Kali Linux. /n
+Una vez preparado los dispositivos para la adquisición, decidí que se dividiera en partes de 4GB y no he usado el formato dd raw image de linux. 
+
+![Guymager](./Imagenes/Guymager.png)

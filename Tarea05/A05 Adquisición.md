@@ -1,13 +1,20 @@
 # Adquisición de una memoria USB con FTK Imager, Guymager y dd
 
+![Portada](./Imagenes/portada.jpg)
+
 ## Índice
 
-1. [Adquisición forense con FTK Imager](#adquisición-forense-con-FTK-Imager)
-2. [Adquisición forense con Guymager](#adquisición-forense-con-Guymager)
-3. [Adquisición forense con dd](#adquisición-forense-con-dd)
+1. [Adquisición](#introducción)
+2. [Adquisición forense con FTK Imager](#adquisición-forense-con-FTK-Imager)
+3. [Adquisición forense con Guymager](#adquisición-forense-con-Guymager)
+4. [Adquisición forense con dd](#adquisición-forense-con-dd)
+
+## Introducción
+
+En este trabajo voy a usar distintos metodos de adquisición y programas para adquirir una imagen de una memoria USB de 32GB. Con esta tarea pretendemos aprender como usar distintos formatos y herramientas para adquirir una imagen de una memoria USB. 
+
 
 ## Adquisición forense con FTK Imager
-
 
 Usaré FTK Imager en una máquina virtual Windows 10 para adquirir una imagen de una memoria USB de 32 GB con un formato en exFAT. Esta imagen será guardada en un disco duro externo de 1TB donde se guardará en una carpeta.
 

@@ -6,10 +6,21 @@
 
 1. [Introducción](#introducción)
 2. [Identificación](#identificación)
-3. [Adquisición](#adquisición-In-Live)<br>
-   3.1. [Planificación](#planificación)
-   3.2. [Triage](#triage)
-   3.3. [Memoria RAM](#memoria-ram)
+3. [Adquisición In Live](#adquisición-In-Live)<br>
+   3.1. [Planificación](#planificación)<br>
+   3.2. [Triage](#triage)<br>
+   3.3. [Memoria RAM](#memoria-ram)<br>
+   3.4. [Disco Duro](#disco-duro)
+4. [Adquisición Post-Mortem](#adquisición-Post-Mortem)
+5. [Preservar](#preservar)
+6. [Fases de análisis y presentación](#fases-de-análisis-y-presentación)
+7. [Metodología](#metodología)
+8. [Cadena de custodia](#cadena-de-custodia)<br>
+   8.1. [Evidencia 001](#evidencia-001)<br>
+   8.2. [Evidencia 002](#evidencia-002)<br>
+   8.3. [Evidencia 003](#evidencia-003)<br>
+   8.4. [Evidencia 001](#evidencia-004)
+
 
 ## Introducción
 

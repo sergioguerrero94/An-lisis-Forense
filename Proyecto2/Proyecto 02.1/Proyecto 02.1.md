@@ -64,7 +64,7 @@ El programa llamado Ram Live Capturer, no hace el cálculo del Hash, por lo tant
 
 Este Hash se ha ejecutado el Viernes 10 de Noviembre a las 9:18:00 de la mañana antes de ser transferido.
 
-![Hash](./img/hash_mem.png)
+![Hash](./img/hash-mem.png)
 
 ### Disco Duro
 

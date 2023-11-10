@@ -1,8 +1,15 @@
-# Proyecto 2 Incident Investigation (In Live y Post-Mortem)
+# Proyecto 2 - Incident Investigation (In Live y Post-Mortem)
 
 ![Portada](./img/Portada.png)
 
 ## Índice
+
+1. [Introducción](#introducción)
+2. [Identificación](#identificación)
+3. [Adquisición](#adquisición(In-Live))
+3.1.  [Planificación](#planifiación)
+3.2.  [Triage](#triage)
+3.3.  [Memoria RAM](#memoria-ram)
 
 ## Introducción
 
@@ -16,7 +23,7 @@ La cadena de custodia se hará sobre las evidencias creadas pero con una serie d
 
 En esta primera fase hemos analizado el escenario del incidente para busca e identificar las posibles evidencias digitales. Las evidencias digitales que hemos podido identificar es un ordenador con el sistema operativo Windows XP que está en funcionamiento en la escena del incidente.
 
-## Adquisición (In Live)
+## Adquisición(In Live)
 
 En este apartado del documento explicaré las herramientas usadas y los pasos que he llevado a cabo para realizar la adquisición "in live" de las posibles evidencias digitales de nuestra máquina del incidente.
 
@@ -110,7 +117,7 @@ Una vez terminado el proceso he comprobado que nuestra imagen ha sido creada.
 
 ![18](./img/18.png)
 
-## Adquisición (Post-Mortem)
+## Adquisición(Post-Mortem)
 
 Una vez terminada la adquisición In Live, pasaremos a adquirir el disco duro de nuestra máquina de manera física y una vez apagado el sistema.
 

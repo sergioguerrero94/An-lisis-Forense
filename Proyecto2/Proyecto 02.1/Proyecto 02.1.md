@@ -64,7 +64,7 @@ El programa llamado Ram Live Capturer, no hace el cálculo del Hash, por lo tant
 
 Este Hash se ha ejecutado el Viernes 10 de Noviembre a las 9:18:00 de la mañana antes de ser transferido.
 
-![Hash](./img/"hash mem.png")
+![Hash](./img/hashmem.png)
 
 ### Disco Duro
 
@@ -72,43 +72,43 @@ Después de terminar el proceso de captura de memoria RAM, he iniciado el proces
 
 He ejecutado el programa, clicado en file y clic en Create Disk Image.
 
-![8]()
+![8](./img/8.png)
 
 He seleccionado que el tipo de disco es físico.
 
-![9]()
+![9](./img/9.png)
 
 En la siguiente ventana he seleccionado el disco duro del ordenador.
 
-![10]()
+![10](./img/10.png)
 
 Una vez seleccionar el disco duro, he especificado clicando en la casilla para precalcular el progreso para que nos muestre durante el proceso cuanto va a durar. He clicado en Add para definir donde quiero guardar la imagen del disco y en que formato, el seleccionado ha sido AFF.
 
-![11]()
+![11](./img/11.png)
 
 Luego he rellenado la información del caso y la evidencia con el número del caso y el número de la evidencia.
 
-![12]()
+![12](./img/12.png)
 
 El siguiente paso es seleccionar la carpeta de destino donde se guardará la imagen y el nombre con el que se guardará.
 
-![13]()
+![13](./img/13.png)
 
 He ejecutado el proceso de la creación de la imagen y he esperado a que termine.
 
-![14]()
+![14](./img/14.png)
 
 Como podemos ver en esta imagen, nos muestra cuanto tardará en terminar el proceso. La duración de la creación de la imagen varía durante el proceso.
 
-![15]()
+![15](./img/15.png)
 
 Una vez terminado el proceso he comprobado que nuestra imagen ha sido creada.
 
-![16]()
+![16](./img/17.png)
 
-![17]()
+![17](./img/17.png)
 
-![18]()
+![18](./img/18.png)
 
 ## Adquisición (Post-Mortem)
 
@@ -118,11 +118,11 @@ Este proceso se ejecutó el Martes 7 de Noviembre a las 18:00 de la tarde.
 
 Como en este caso nuestro ordenador es una máquina virtual, deberemos copiar el disco duro de la máquina virtual de la carpeta que nos crea en nuestro disco duro al disco duro externo. Este proceso debe ser con la máquina apagada.
 
-![19]()
+![19](./img/19.png)
 
 Lo pegaremos en la carpeta que he creado limpia para guardar el disco duro de la máquina virtual.
 
-![20]()
+![20](./img/20.png)
 
 ## Preservar
 
@@ -150,16 +150,16 @@ Ahora se proporcionan imagenes de las cadena de custodia de cada evidencia.
 
 ### Evidencia 001
 
-![evidencia1]()
+![evidencia1](./img/Evidencia1.png)
 
 ### Evidencia 002
 
-![evidencia2]()
+![evidencia2](./img/Evidencia2.png)
 
 ### Evidencia 003
 
-![evidencia3]()
+![evidencia3](./img/Evidencia3.png)
 
 ### Evidencia 004
 
-![evidencia4]()
+![evidencia4](./img/Evidencia4.png)

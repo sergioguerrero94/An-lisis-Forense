@@ -1,6 +1,6 @@
 # Incident Investigation (In Live y Post-Mortem)
 
-![Portada]()
+![Portada](./img/Portada.png)
 
 ## Índice
 

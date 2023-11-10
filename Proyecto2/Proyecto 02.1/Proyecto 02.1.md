@@ -34,7 +34,7 @@ El propósito de la siguiente adquisición es obtener información sobre los reg
 
 El primer paso que he llevado a cabo es utilizar la herramienta IR Triage para llevar a cabo este proceso. He rellenado la información referente al caso para llevar un control del caso.
 
-![1]()
+![1](./img/1.png)
 
 Lo primero que queremos sacar de la máquina en la que ha habido el incidente, es la memoria más volatil, por ejemplo los registros del sistema.
 

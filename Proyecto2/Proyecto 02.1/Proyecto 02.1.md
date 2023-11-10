@@ -6,7 +6,7 @@
 
 1. [Introducción](#introducción)
 2. [Identificación](#identificación)
-3. [Adquisición(In-Live)](#adquisición(in-live))
+3. [Adquisición (In-Live)](#adquisición(In-Live))
 3.1. [Planificación](#planificación)
 3.2. [Triage](#triage)
 3.3. [Memoria RAM](#memoria-RAM)

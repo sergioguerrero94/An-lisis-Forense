@@ -38,17 +38,17 @@ El primer paso que he llevado a cabo es utilizar la herramienta IR Triage para l
 
 Lo primero que queremos sacar de la máquina en la que ha habido el incidente, es la memoria más volatil, por ejemplo los registros del sistema.
 
-![2]()
+![2](./img/2.png)
 
 He usado la herramienta con los apartados marcados por defecto, ya que en el orden de volatilidad que tenemos en nuestra metodología, parte de esa información la deberemos tener en cuenta también aunque sea a posteriori.
 
-![3]()
+![3](./img/3.png)
 
 Después de que ha terminado el proceso, he comprobado de que esa información realmente ha sacado esa información.
 
-![4]()
+![4](./img/4.png)
 
-![5]()
+![5](./img/5.png)
 
 ### Memoria RAM
 
@@ -56,15 +56,15 @@ El siguiente paso que he hecho es sacar una imagen de la memoria RAM y del fiche
 
 He ejecutado la herramienta desde el disco duro externo y he seleccionado que el directorio de salida sea una carpeta creada como nueva para guardar esta imagen.
 
-![6]()
+![6](./img/6.png)
 
-![7]()
+![7](./img/7.png)
 
 El programa llamado Ram Live Capturer, no hace el cálculo del Hash, por lo tanto he hecho el Hash por powershell haciendo el cálculo por MD5 y por SHA1 para poder comprobarse cuando transfiera esta adquisición.
 
 Este Hash se ha ejecutado el Viernes 10 de Noviembre a las 9:18:00 de la mañana antes de ser transferido.
 
-![Hash]()
+![Hash](./img/hash_mem.png)
 
 ### Disco Duro
 

@@ -9,7 +9,7 @@
 3. [Adquisición](#adquisición(in-live))
 3.1. [Planificación](#planifiación)
 3.2. [Triage](#triage)
-3.3. [Memoria RAM](#memoria-ram)
+3.3. [Memoria RAM](#memoria-RAM)
 
 ## Introducción
 
